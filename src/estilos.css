@@ -1,0 +1,27 @@
+body{
+    background-color: blueviolet;
+}
+
+/* formulario  */
+.formulario{
+    text-align: center;
+}
+/* input */
+.buscador{
+    border-radius: 1rem;
+    padding: 1rem;
+    border: none;
+    outline: none;
+}
+.buscador:hover{
+    box-shadow: 2px 2px 10px #ccc;
+}
+.buscador:focus{
+    box-shadow: 2px 2px 10px #000;
+}
+.gif{
+    width: 22%;
+    height: 300px;
+    border-radius: 1rem;
+    margin: 1rem;
+}
